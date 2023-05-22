@@ -1,0 +1,8 @@
+in the console you get help on some method, examples:
+
+dir(str)
+
+help(str.capitalize)
+
+>> import builtilns dir(builtilns)
+

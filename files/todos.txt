@@ -1,0 +1,4 @@
+limpar
+pagar
+jogar
+estudar

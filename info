@@ -6,3 +6,6 @@ help(str.capitalize)
 
 >> import builtilns dir(builtilns)
 
+the open function by default assigns the value 'r' to the arguments
+"with open", when you need to read a file.
+

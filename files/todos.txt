@@ -1,4 +1,2 @@
-limpar
-pagar
-jogar
-estudar
+play
+limpar a casa

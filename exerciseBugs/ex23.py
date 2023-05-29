@@ -32,3 +32,6 @@ if perimeter < 14 and area < 10:
     print("OK")
 else:
     print("NOT OK")
+
+
+

@@ -17,6 +17,7 @@ def get_grades():
     message = f"Max: {maximum}, Min: {minimum}"
     return message
 
+
 print(get_grades())
 
 

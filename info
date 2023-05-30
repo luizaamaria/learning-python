@@ -9,3 +9,17 @@ help(str.capitalize)
 the open function by default assigns the value 'r' to the arguments
 "with open", when you need to read a file.
 
+/////////////////////////////////////////////////////
+
+case dont use the "with open", the another form it is:
+
+ # file = open('files/todos.txt', 'r')
+        # todos = file.readlines()
+        # file.close()
+Where necessary use teh file.close
+
+
+/////////////////////////////////////////////////////
+
+You don't need to put the argument of function "filepth="todos.txt", because this is equal:
+todos = get_todos("files/todos.txt") this is parameter of the function | the argument and the value of argument
